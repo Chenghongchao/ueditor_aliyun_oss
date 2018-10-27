@@ -14,8 +14,8 @@ useLocalStorager 是否启用本地存储
 useAsynUploader  是否启用异步上传
 二、启动运行项目
 1、本项目编译环境，1.6及以上环境，idea 2016.2
-2、测试http://localhost:8080/common/ueditor1_4_3-utf8-jsp/jsp/controller.jsp 如果不能正常访问那么上传文件就不能使用
+2、测试http://localhost:8080/ueditor/jsp/controller.jsp 如果不能正常访问那么上传文件就不能使用
 3、可以直接运行，idea运行时的测试路径，因个人环境配置有直接关系，eclipse需要加上项目名称才能运行
-http://localhost:8080/common/ueditor1_4_3-utf8-jsp/index.html
+http://localhost:8080/ueditor/index.html
 三、直接使用编译后的本项目到页面环境配置
 1、直接将编译后的文件放进tomcat即可使用
